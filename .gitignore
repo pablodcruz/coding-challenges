@@ -1,0 +1,32 @@
+# Java compiled class files
+*.class
+
+# Maven / Gradle build directories
+target/
+build/
+
+# IntelliJ IDEA project files
+.idea/
+**/.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code workspace files
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse project files (optional, if ever used)
+.project
+.classpath
+.settings/
+
+# Environment / credentials
+*.env
+*.keystore
