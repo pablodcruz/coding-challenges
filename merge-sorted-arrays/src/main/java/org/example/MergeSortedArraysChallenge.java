@@ -14,7 +14,7 @@ public class MergeSortedArraysChallenge {
      * - The input arrays are already sorted.
      * - Return a new sorted array containing all elements from both arrays.
      * - Handle edge cases like one or both arrays being empty.
-     *
+     * 
      * Example:
      *    a = [1, 3, 5], b = [2, 4, 6]
      *    result = [1, 2, 3, 4, 5, 6]
